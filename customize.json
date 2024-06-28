@@ -1,0 +1,23 @@
+{
+  "greeting": "Hello my friend",
+  "name": "KDB",
+  "greetingText": "",
+  "wishText": "Chúc m sớm có ny",
+  "imagePath": "",
+  "text1": "Hôm qua là sinh nhật m :D",
+  "textInChatBox": "Chúc mừng sinh nhật",
+  "sendButtonLabel": "Gửi",
+  "text2": "Đó là món quà đấy",
+  "text3": "Nhưng trước khi t kết thúc",
+  "text4": "T hi vọng và t muốn làm một thứ",
+  "text4Adjective": "Đặc biệt",
+  "text5Entry": "vì",
+  "text5Content": "M chính là người đặc biệt",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
